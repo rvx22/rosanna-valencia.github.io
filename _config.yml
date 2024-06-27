@@ -1,3 +1,6 @@
 title: DH Project
 # this is the theme of my website
 theme: minima
+header_pages:
+  - index.md
+  - page1.md
